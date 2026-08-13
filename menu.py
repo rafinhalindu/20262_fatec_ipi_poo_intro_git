@@ -5,12 +5,15 @@ def menu():
     while True:
         print("\nMenu")
         print("1. Somar")
+        print("2. Subtrair")
         print("0. Sair")
 
         opcao = input("Escolha uma opção: ")
 
         if opcao == "1":
             print(f'{a} + {b} = {calculadora.somar(a, b)}')
+        elif opcao == "2":
+            print(f'{a} - {b} = {calculadora.subtrair(a, b)}')
         elif opcao == "0":
             print("Saindo...")
             break
