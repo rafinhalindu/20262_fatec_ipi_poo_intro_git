@@ -1,1 +1,2 @@
-Repositório para a disciplina de Programação Orientada a Objetos, na FATEC Ipiranga 2026_2.
+Gabriel Araujo da Silva RA: 2040482522037
+Rafael Apro Rodrigues   RA: 2040482522032
